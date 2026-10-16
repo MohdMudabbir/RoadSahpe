@@ -1,0 +1,9 @@
+# RoadShape is a pure front-end project (HTML + CSS + JavaScript).
+# No Python packages are required to run it.
+#
+# Front-end libraries are loaded from CDNs inside index.html:
+#   Chart.js 4.4.1
+#   Leaflet 1.9.4
+#
+# Optional: to serve locally, use Python's built-in server (Python 3.x):
+#   python -m http.server 8000

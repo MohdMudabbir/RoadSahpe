@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Dependencies / builds
+node_modules/
+dist/
+build/
+
+# Python (if you use the local server)
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Logs
+*.log
+
+# Large local datasets
+*.zip
